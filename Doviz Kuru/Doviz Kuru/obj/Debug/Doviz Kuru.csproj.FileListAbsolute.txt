@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\bin\Debug\Doviz Kuru.exe.config
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\bin\Debug\Doviz Kuru.exe
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\bin\Debug\Doviz Kuru.pdb
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz Kuru.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz_Kuru.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz Kuru.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz Kuru.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz Kuru.exe
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz Kuru.pdb
+C:\Users\Metin\source\repos\Metin Form\Doviz Kuru\Doviz Kuru\obj\Debug\Doviz_Kuru.Döviz.resources
